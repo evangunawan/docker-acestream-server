@@ -1,0 +1,25 @@
+{
+  "name": "docker-acestream-server",
+  "version": "1.0.0",
+  "description": "An [Ace Stream](http://www.acestream.org/) server Docker image.",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evangunawan/docker-acestream-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evangunawan/docker-acestream-server/issues"
+  },
+  "homepage": "https://github.com/evangunawan/docker-acestream-server#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "inquirer": "^8.2.4"
+  }
+}
